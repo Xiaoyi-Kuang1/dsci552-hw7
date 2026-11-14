@@ -1,0 +1,6 @@
+Anuran Calls (MFCCs), UCI Machine Learning Repository.
+Colonna, J., Nakamura, E., Cristo, M., & Gordo, M. (2015).
+https://doi.org/10.24432/C5CC9H
+https://archive.ics.uci.edu/dataset/406/anuran+calls+mfccs
+License: Creative Commons Attribution 4.0 (CC BY 4.0).
+The original Readme.txt is included.
